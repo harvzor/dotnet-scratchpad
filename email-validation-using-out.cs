@@ -1,4 +1,4 @@
-﻿#:property TargetFramework net10.0
+﻿#:property TargetFramework=net10.0
 
 Console.Write("Input email: ");
 string email = Console.ReadLine() ?? string.Empty;

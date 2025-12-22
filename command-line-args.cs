@@ -1,4 +1,4 @@
-#:property TargetFramework net10.0
+#:property TargetFramework=net10.0
 
 // string[] arguments = Environment
 //     .GetCommandLineArgs()
@@ -7,3 +7,4 @@
 //     .ToArray();
 
 Console.WriteLine("Your inputs: " + String.Join(',', args));
+

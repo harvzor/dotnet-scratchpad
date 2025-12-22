@@ -1,6 +1,6 @@
-#:property TargetFramework net10.0
-// Doesn't work in preview 5?
-#:package Humanizer@2.14.1
+#:property TargetFramework=net10.0
+
+#:package Humanizer@3.0.1
 
 using Humanizer;
 

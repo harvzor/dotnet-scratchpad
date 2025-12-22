@@ -1,4 +1,4 @@
-#:property TargetFramework net10.0
+#:property TargetFramework=net10.0
 
 Console.Write("Input email: ");
 var input = Console.ReadLine();

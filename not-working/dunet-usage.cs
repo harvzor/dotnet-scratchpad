@@ -1,4 +1,4 @@
-#:property TargetFramework=net10.0
+#:property TargetFramework=net10
 #:package Dunet@1.11.3
 
 using Dunet;

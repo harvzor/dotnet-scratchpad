@@ -1,5 +1,5 @@
 // dotnet run .\command-line-parser.cs --echo "Hello World!"
-#:property TargetFramework net10.0
+#:property TargetFramework=net10.0
 
 #:package CommandLineParser@2.9.1
 

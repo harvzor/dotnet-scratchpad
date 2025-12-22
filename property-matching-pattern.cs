@@ -1,4 +1,4 @@
-#:property TargetFramework net10.0
+#:property TargetFramework=net10.0
 
 Foo foo = GetFoo();
 
